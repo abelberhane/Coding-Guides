@@ -1,0 +1,22 @@
+**To have a string contain its raw data, lets say for a file path,
+just add a Lowercase r before the path: r'C:\Users\Abel\Desktop' 
+
+Dictionary Entries
+d = {k1: v1, k2: v2}
+keys and values
+
+d['k2']='954-444-5555'
+
+
+cities = ]"London", "New York", "Paris", "Oslo", "Helsinki"]
+for city in cities:
+	print(city)
+...
+London
+New York
+Paris
+Oslo
+Helsinki
+
+Shebangs  help let ppl know what version of python to use
+#!/usr/bin/env python3
